@@ -94,7 +94,7 @@ const LandingPage = () => {
         </Grid>
         <Grid item>
           <Link
-            href="https://www.ortvi.art/programs/mab_residencies_t1"
+            href="https://www.ortvi.art/programs/tmab-resid-series-premium"
             underline="none"
             target="_blank"
           >
